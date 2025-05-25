@@ -1,0 +1,1 @@
+This is a basic structure. Replace with your own files or integrate with Madara theme.
